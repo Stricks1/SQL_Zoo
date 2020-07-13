@@ -6,6 +6,9 @@ Originally taken from [The Odin Project](https://www.theodinproject.com/courses/
 ## Authors
 
 👤 **Author**
+
+Gabriel Malheiros Silveira
+
 - Github: [@Stricks1](https://github.com/Stricks1)
 - E-mail: [Gabriel Silveira](mailto:gmalheiross@gmail.com)
 - Linkedin: [Gabriel Silveira](https://linkedin.com/in/gabriel-malheiros-silveira-b6632061/)
